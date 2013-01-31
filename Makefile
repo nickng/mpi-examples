@@ -1,0 +1,2 @@
+all:
+	make --dir=src
